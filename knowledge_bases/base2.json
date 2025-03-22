@@ -1,0 +1,16 @@
+{
+  "hernia_de_disco": {
+    "protrusa": {
+      "descricao": "A hérnia de disco protrusa é caracterizada pelo abaulamento do disco intervertebral sem ruptura completa do anel fibroso. O núcleo pulposo desloca-se em direção às raízes nervosas, mas permanece contido pelo anel fibroso externo. Essa condição pode causar compressão nervosa, resultando em sintomas como dor nas costas ou pescoço, formigamento ou dormência nos braços ou pernas.",
+      "referencia": "turn0search1"
+    },
+    "extrusa": {
+      "descricao": "Na hérnia de disco extrusa, o núcleo pulposo rompe o anel fibroso e projeta-se para fora do disco, mas ainda mantém alguma conexão com o disco original. Essa condição pode levar a uma compressão mais significativa das estruturas nervosas, causando sintomas mais intensos, como dor irradiada e perda de função neurológica.",
+      "referencia": "turn0search3"
+    },
+    "sequestrada": {
+      "descricao": "A hérnia de disco sequestrada ocorre quando o núcleo pulposo se separa completamente do disco intervertebral e migra livremente no canal espinhal. Essa forma é a mais grave, podendo causar compressão severa das raízes nervosas e sintomas neurológicos significativos, como fraqueza muscular e perda de reflexos.",
+      "referencia": "turn0search5"
+    }
+  }
+}

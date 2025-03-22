@@ -1,0 +1,27 @@
+# Arquivos e diretórios do Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+pacientes.json
+
+# Configuração do ambiente virtual do Poetry
+.virtualenvs/
+
+# Arquivos do Poetry
+poetry.lock
+
+# Diretórios de dependências
+venv/
+env/
+
+# Configuração do editor
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+.DS_Store
+*.swp

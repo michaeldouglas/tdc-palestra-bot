@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "tdc-palestra"
+version = "0.1.0"
+description = ""
+authors = ["michael <michaeldouglas010790@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+langchain = "^0.3.21"
+langchain-openai = "^0.3.9"
+python-dotenv = "^1.0.1"
+requests = "^2.32.3"
+streamlit = "^1.43.2"
+langchain-community = "^0.3.20"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

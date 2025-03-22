@@ -1,0 +1,29 @@
+{
+  "hernia_de_disco": {
+    "definicao": "A hérnia de disco ocorre quando uma parte do disco intervertebral se projeta para fora da coluna vertebral, pressionando os nervos ao redor e causando dor, formigamento, ou até mesmo fraqueza muscular.",
+    "causas": [
+      "Idade avançada, onde o disco perde sua elasticidade",
+      "Lesões na coluna vertebral",
+      "Movimentos repetitivos ou levantamento de peso incorreto",
+      "Obesidade, que pode aumentar a pressão sobre os discos"
+    ],
+    "sintomas": [
+      "Dor nas costas, geralmente na região lombar",
+      "Dor que irradia para pernas (ciática)",
+      "Formigamento ou dormência nos membros",
+      "Fraqueza muscular"
+    ],
+    "tratamentos": [
+      "Fisioterapia para fortalecer a musculatura ao redor da coluna",
+      "Medicamentos anti-inflamatórios para controle da dor",
+      "Injeções de esteroides para reduzir a inflamação",
+      "Cirurgia (casos graves, quando outros tratamentos não têm eficácia)"
+    ],
+    "prevenção": [
+      "Manter uma postura correta ao sentar e levantar objetos",
+      "Realizar exercícios para fortalecer a musculatura das costas",
+      "Evitar sobrepeso, mantendo um peso saudável"
+    ],
+    "diagnostico": "A hérnia de disco pode ser diagnosticada através de exames de imagem como ressonância magnética (RM) ou tomografia computadorizada (TC)."
+  }
+}

@@ -18,6 +18,8 @@ DATA_FILE = "pacientes.json"
 
 st.set_page_config(layout="wide")
 
+st.image("image.png", caption="Agente Hérnia de Disco", width=200)
+
 
 def carregar_pacientes():
     if os.path.exists(DATA_FILE):

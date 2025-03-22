@@ -1,3 +1,7 @@
+<center>
+<img src="image.png" width="150" alt="Assistente de Diagnóstico de Hérnia de Disco">
+</center>
+
 # Assistente de Diagnóstico de Hérnia de Disco
 
 Este repositório contém um aplicativo interativo desenvolvido com Streamlit que auxilia no diagnóstico de hérnia de disco. Utilizando técnicas de processamento de linguagem natural e bases de conhecimento específicas, o assistente fornece informações detalhadas sobre sintomas, causas, tratamentos e tipos de hérnia de disco.

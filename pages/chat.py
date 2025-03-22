@@ -20,6 +20,8 @@ BASE_CONHECIMENTO_FILE_2 = "knowledge_bases/base2.json"
 
 st.set_page_config(layout="wide")
 
+st.image("image.png", caption="Agente Hérnia de Disco", width=200)
+
 
 def carregar_pacientes():
     if os.path.exists(DATA_FILE):
